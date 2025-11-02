@@ -8,8 +8,6 @@ const WorkCard = (props) => {
             <h2 className="project-title">{props.title}</h2>
             <div className="pro-details">
                 <p>{props.text}</p>
-                <div className="pro-btns">
-                </div>
             </div>
         </div>
     )
